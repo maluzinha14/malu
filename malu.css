@@ -1,6 +1,7 @@
 h1 {
     background-color: rgb(167, 221, 238);
     text-align:center;
+    font-size: large;
 }
 
 p {
@@ -9,4 +10,9 @@ p {
 
 strong {
     font-size: 30px
+}
+h2 {
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: xx-large;
 }
