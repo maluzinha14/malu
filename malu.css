@@ -1,18 +1,15 @@
 h1 {
-    background-color: rgb(167, 221, 238);
     text-align:center;
-    font-size: large;
+    background-color: rgb(160, 17, 17);
 }
 
 p {
     text-align: center;
+    font-size: medium;
 }
 
 strong {
-    font-size: 30px
+    font-size: larger;
+    background-color: rgb(212, 78, 78);
 }
-h2 {
-    background-color: rgb(255, 0, 0);
-    text-align: center;
-    font-size: xx-large;
-}
+
