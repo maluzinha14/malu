@@ -2,6 +2,9 @@ h1 {
     text-align:center;
     background-color: rgb(160, 17, 17);
 }
+h3{
+    background-color: rgb(199, 77, 77);
+}
 
 p {
     text-align: center;
@@ -13,3 +16,6 @@ strong {
     background-color: rgb(212, 78, 78);
 }
 
+body {
+    background-color: rgb(154, 96, 207);
+}
