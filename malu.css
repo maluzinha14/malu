@@ -2,6 +2,9 @@ h1 {
     text-align:center;
     background-color: rgb(160, 17, 17);
 }
+h2 {
+   background-color: rgb(85, 85, 218);
+}
 h3{
     background-color: rgb(196, 64, 64);
 }
@@ -28,4 +31,8 @@ body {
 
 .facada {
     background-color: rgb(85, 31, 43);
+}
+
+.itens {
+color: rgba(31, 158, 48, 0.548);
 }
