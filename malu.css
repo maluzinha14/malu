@@ -3,9 +3,12 @@ h1 {
     background-color: rgb(160, 17, 17);
 }
 h2 {
-   background-color: rgb(85, 85, 218);
+    text-align:center;
+    font-style: italic;
+    background-color: rgb(177, 134, 226);
 }
 h3{
+    text-align:center;
     background-color: rgb(196, 64, 64);
 }
 
@@ -16,8 +19,9 @@ p {
 }
 
 strong {
+    font-style: italic;
     font-size: larger;
-    background-color: rgb(214, 119, 119);
+    background-color: rgb(100, 35, 35);
 }
 
 body {
@@ -25,14 +29,19 @@ body {
 }
 
 .assassino {
-    background-color: rgba(163, 44, 44, 0.726);
-    color: rgb(44, 83, 105)
+    background-color: rgba(88, 19, 19, 0.726);
+    color: rgb(79, 147, 187)
 }
 
 .facada {
     background-color: rgb(85, 31, 43);
+    color: bisque;
 }
 
 .itens {
-color: rgba(31, 158, 48, 0.548);
+    color: rgba(31, 158, 48, 0.548);
+    display: inline-block;
+    padding: 5%;
+    margin-right: 10%;
+
 }
