@@ -12,12 +12,18 @@ h3{
     background-color: rgb(196, 64, 64);
 }
 
+header{
+    color: rgb(138, 179, 216);
+    font-size: larger;
+}
 p {
     text-align: center;
     font-size: medium;
     color: rgb(255, 255, 255);
 }
-
+.imagem1 {
+    width: 70px;
+}
 strong {
     font-style: italic;
     font-size: larger;
