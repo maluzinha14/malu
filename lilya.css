@@ -1,0 +1,41 @@
+h1 {
+    text-align:center;
+    background-color: rgb(160, 17, 17);
+}
+h2 {
+    text-align:center;
+    font-style: italic;
+    background-color: rgb(177, 134, 226);
+}
+h3{
+    text-align:center;
+    background-color: rgb(196, 64, 64);
+}
+p {
+    text-align: center;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+}
+.imagem1 {
+    width: 500px;
+}
+.imagemcentralizada{
+    text-align: center;
+}
+strong {
+    font-style: italic;
+    font-size: larger;
+    background-color: rgb(100, 35, 35);
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.itens {
+    color: rgba(133, 157, 223, 0.548);
+    display: inline-block;
+    padding: 1%;
+    margin-right: 5%;
+
+}
