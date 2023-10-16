@@ -22,6 +22,7 @@ p {
 .imagemcentralizada{
     text-align: center;
 }
+
 strong {
     font-style: italic;
     font-size: larger;
@@ -33,9 +34,13 @@ body {
 }
 
 .itens {
-    color: rgba(133, 157, 223, 0.548);
-    display: inline-block;
-    padding: 1%;
-    margin-right: 5%;
+    color: rgba(58, 86, 163, 0.548);
+    vertical-align: top;
+    margin: 20%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border-color: rgb(36, 55, 78);
+    border-width: 2px;
+    border-style: solid;
 
 }
